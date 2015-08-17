@@ -1,0 +1,8 @@
+ClearCase CopyAreaDB|4
+CFET_ACTech\ACTech_IMIX\IMIXAPIProject\IMIXCheckTool\XmlParserManager
+2
+4
+12:rapidxml_utils.hpp|1|142597b88dc|dbe|7f17e0ed|fe2c9b9b34424f71b92348fb44b75625|0
+16:rapidxml_iterators.hpp|1|142597b88eb|ffc|ddb05f5a|9e86ba90fabb416b85c2f2546fe5f596|0
+12:rapidxml_print.hpp|1|142597b88ef|3f21|64173be5|c823f73a31a04232a6df139ffaec49f5|0
+c:rapidxml.hpp|1|142597b88f3|1d869|e4ed853b|0265c61f946c40ddb80d2c2317542fce|0
